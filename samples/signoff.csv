@@ -1,0 +1,7 @@
+commitment,worker,terms,start,end,agreed,state
+S1,W1,T1,2026-07,2026-12,5650,signed
+S2,W2,T1,2026-07,2026-12,6400,signed
+S3,W3,T1,2026-07,2026-12,2900,signed
+S4,W5,T1,2026-09,2026-12,6350,proposed
+S5,W4,T1,2026-09,2026-12,5750,proposed
+S6,W7,T1,2026-10,2026-12,5900,proposed
